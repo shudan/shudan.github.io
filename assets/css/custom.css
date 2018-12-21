@@ -1,0 +1,10 @@
+p {
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+#logo {
+    padding-right: 0.7em;
+}
