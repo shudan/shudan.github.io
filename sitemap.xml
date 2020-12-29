@@ -7,39 +7,43 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.shudan.me/404.html</loc>
-  <lastmod>2019-03-08T08:36:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/archive.html</loc>
-  <lastmod>2019-03-08T08:36:00Z</lastmod>
+  <lastmod>2020-12-29T09:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/blog/index.html</loc>
-  <lastmod>2019-03-08T08:36:00Z</lastmod>
+  <lastmod>2020-12-29T09:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/categories/index.html</loc>
-  <lastmod>2019-03-08T08:36:00Z</lastmod>
+  <lastmod>2020-12-29T09:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/index.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/papers/kostylev2013.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/papers/morimoto2016.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.shudan.me/papers/sun2020.html</loc>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/papers/zhong2015.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/papers/zhong2016.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.shudan.me/papers/zhong2018.html</loc>
@@ -47,6 +51,6 @@
  </url>
  <url>
   <loc>http://www.shudan.me/papers/zhong2019a.html</loc>
-  <lastmod>2019-03-08T08:39:00Z</lastmod>
+  <lastmod>2020-12-29T09:54:00Z</lastmod>
  </url>
 </urlset>
